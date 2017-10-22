@@ -1,7 +1,8 @@
-# stock-forecasting
 # Stock closing and opening forecasting using Deep neural network and LSTM(technical indicators included)
-Details about the indicators are here https://github.com/saradindusengupta/technical_indicators_stock-market
+Details about the indicators are here *https://github.com/saradindusengupta/technical_indicators_stock-market
 
+# Data :
+*https://www.kaggle.com/souravroy1/stock-market-data/data
 The two py files 
 ```
 stock-forecast-lstm.py
@@ -18,7 +19,7 @@ The notebook directory contains the results and ipynb files.
 *Test Score: 0.00029 MSE (0.02 RMSE)
 
 # Future Improvements :
-1. Include more technical indicators from https://github.com/saradindusengupta/technical_indicators_stock-market
+1. Include more technical indicators from *https://github.com/saradindusengupta/technical_indicators_stock-market
 2. Use tweets for sentiment analysis more effectively 
 3. More data 
 4. More Indexes and better optimized hyperparameter
