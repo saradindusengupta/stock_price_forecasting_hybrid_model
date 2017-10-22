@@ -29,11 +29,11 @@ The notebook directory contains the results and ipynb files.
 
 2. A hybrid SOFM-SVR with a filter-based feature selection for stock market forecasting CL Huang, CY Tsai - Expert Systems with Applications, 2009 - Elsevier
 
-3.Twitter mood predicts the stock market J Bollen, H Mao, X Zeng - Journal of computational science, 2011 - Elsevier
+3. Twitter mood predicts the stock market J Bollen, H Mao, X Zeng - Journal of computational science, 2011 - Elsevier
 
-4.Evaluating the impact of technical indicators on stock forecasting  IEEE
+4. Evaluating the impact of technical indicators on stock forecasting  IEEE
 
-5.A hybrid stock trading framework integrating technical analysis with machine learning techniques  Rajashree Dash Pradipta Kishore Dash
+5. A hybrid stock trading framework integrating technical analysis with machine learning techniques  Rajashree Dash Pradipta Kishore Dash
 
 # Dependencies :
 Language - Python 3.5
